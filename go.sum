@@ -334,8 +334,8 @@ github.com/aws/aws-sdk-go-v2/service/configservice v1.3.0 h1:F1VtAhAtPq6TxgRlBlp
 github.com/aws/aws-sdk-go-v2/service/configservice v1.3.0/go.mod h1:iUPe1LAYqj8xaouHcns/bNEIcryZ7uuXVbcgj0SyT/k=
 github.com/aws/aws-sdk-go-v2/service/datapipeline v1.13.6 h1:FEA1TnXPbOURvvu5fWogiEywNvGqloaFDwGbSEV+ngc=
 github.com/aws/aws-sdk-go-v2/service/datapipeline v1.13.6/go.mod h1:ObjPVzsxPyoy3uwHM//3KJKFb4i7tWnQy1LFclew0KQ=
-github.com/aws/aws-sdk-go-v2/service/devicefarm v1.13.3 h1:fYkhLvCtT+Xn3ZWVaoE1v1lehBYsEi4ZmKp75rtELV0=
-github.com/aws/aws-sdk-go-v2/service/devicefarm v1.13.3/go.mod h1:YgtRXs9wd1qLZXmVMseXFCDjkQpmHoe4lmJtZIiyh7k=
+github.com/aws/aws-sdk-go-v2/service/devicefarm v1.13.12 h1:qXTo8p25ggtvONmXjmH6P873oZ44GLg0Q9OsgSjrmrc=
+github.com/aws/aws-sdk-go-v2/service/devicefarm v1.13.12/go.mod h1:kVUV8OmXv4z5wo3/w2Mg0uXXaBIeh8YsOeAJgySGiGI=
 github.com/aws/aws-sdk-go-v2/service/docdb v1.18.1 h1:9ZqAy/lN0nyIIN8QxTgCCo3BcE+9JvryOZfrzp5xCJk=
 github.com/aws/aws-sdk-go-v2/service/docdb v1.18.1/go.mod h1:77akGGfFx4oiJdbKdCflCVg5kQZDuGQ8Rb6ko7BNv90=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.2.1 h1:NnYXRukLvkiTnNyZHCCQcZaoWJSeE5Y7tCVPgvTyWfw=
